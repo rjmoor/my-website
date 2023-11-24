@@ -1,7 +1,5 @@
 # My webpage while working for Adobe.com
-## Franklin/Helix Web Page Project
-
-## Introduction
+## Franklin/Helix Web Page Project - Introduction
 
 Welcome to my Franklin/Helix framework project! As a Software Engineer specializing in automation for an International QA team, I've embarked on this journey to explore the intersection of innovative web development and my professional expertise.
 
